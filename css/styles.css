@@ -1,0 +1,16 @@
+.header {
+  display: flex;
+  align-items: center;
+}
+
+.right-items {
+  list-style-type: none;
+  display: flex;
+  gap: 16px;
+  margin-left: auto;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
