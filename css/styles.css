@@ -43,3 +43,13 @@ img {
   height: 300px;
   width: 300px;
 }
+
+.quote {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.by {
+  text-align: right;
+}
